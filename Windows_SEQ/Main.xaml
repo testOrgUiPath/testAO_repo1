@@ -78,7 +78,7 @@
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="483.2,150.4" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Info" Message="[&quot;abcde&quot;]" />
+    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="483.2,150.4" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Info" Message="[&quot;abcdef&quot;]" />
     <If Condition="[argBoolean]" sap:VirtualizedContainerService.HintSize="483.2,458.4" sap2010:WorkflowViewState.IdRef="If_1">
       <If.Then>
         <Sequence sap:VirtualizedContainerService.HintSize="400,192.8" sap2010:WorkflowViewState.IdRef="Sequence_1">
